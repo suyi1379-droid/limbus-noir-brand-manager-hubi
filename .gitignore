@@ -1,0 +1,8 @@
+# 安装脚本生成的历史备份，不上传
+Backup/
+
+# 临时文件
+*.tmp
+*.temp
+Thumbs.db
+desktop.ini
